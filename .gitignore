@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+images/
+bus.jpg
+*.pt
+results/
+runs/
+
+.vscode/
+.streamlit/secrets.toml
